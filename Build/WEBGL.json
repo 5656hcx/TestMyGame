@@ -1,7 +1,7 @@
 {
 "companyName": "5656hcx",
 "productName": "Doodle Rush",
-"productVersion": "2.0.0a",
+"productVersion": "2.0.1",
 "dataUrl": "WEBGL.data.unityweb",
 "wasmCodeUrl": "WEBGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WEBGL.wasm.framework.unityweb",
